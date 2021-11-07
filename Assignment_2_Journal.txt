@@ -1,0 +1,15 @@
+Assignment 2 Journal
+Student Name: Jishnu Maharshi Yalamarthi
+
+Journal Entries:
+
+25/05/2020 2:50 PM
+Work: Started working on pseudocode for main function
+Challenges: Checked back few times on how to write proper pseudocode for functions
+Work completed: Written pseudocode for main function
+
+25/05/2020  4:00 PM
+Work: Tried to design main function based on written pseudocode
+Challenges:
+Work completed:
+
